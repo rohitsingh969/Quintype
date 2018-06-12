@@ -1,0 +1,116 @@
+.carosoul-title{
+  position: absolute;
+    top: 8%;
+    left: 7%;
+    width: 90%;
+  color: #fff!important;
+  
+}
+.carosoul-title h3{
+    font-weight: 700!important;
+  font-size: 28px!important;
+}
+
+.carosoul-title p{
+    margin: 0 12%;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 1.32;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+figcaption {
+    display: none;
+}
+
+#slideshow {
+    overflow: hidden;
+    position: relative;
+    width: 98.8%;
+    margin: 50px 0;
+    max-height: 420px;
+}
+#slideshow figure img {
+    max-height: 500px;
+    height: 100%;
+    width: 100%;
+
+}
+
+div#card h3 {
+    font-family: Lato;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.15;
+    letter-spacing: normal;
+    text-align: left;
+    color: #222222;
+}
+
+section.second-section h1{
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #222222;
+}
+
+.subcribe {
+    background: #2f73e4;
+    margin-top: 35px;
+    padding: 40px 30px;
+    text-align: center;
+}
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+@media only screen and (max-width: 1020px) and (min-width: 760px)  {
+form.search-form {
+    left: 90%;
+  }
+  .canvas-img {
+    margin-bottom: 35px;
+}
+
+  .first-section-block {
+    height: 785px;
+    width: 96%;
+    background-color: #ffffff;
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.1);
+    margin-bottom: 50px;
+}
+.second-section-block {
+    height: auto;
+    width: 96%;
+}
+
+
+}
+
+.col-md-6.no-padding-extra {
+    padding-left: 0;
+}
+
+@media only screen and (max-width: 980px) and (min-width: 600px)  {
+
+.classic-card {
+    height: 560px;}
+    .classic-card img{
+    width: 100%;
+}
+
+
+.first-block.no-padding.fifth-section-spacing img {
+    width: 100%;
+}
+
+}
